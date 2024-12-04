@@ -39,7 +39,7 @@ export ipGate=$4
 export DISK=$5
 export ipDNS='8.8.8.8'
 export setNet='0'
-export tiIso='https://raw.githubusercontent.com/Abiputrapratamaw/tin/refs/heads/main/ti.sh'
+export tiIso='https://raw.githubusercontent.com/Abiputrapratamaw/tin/refs/heads/main/ti.iso'
 REBOOT="reboot=1"
 
 if [ "$(id -u)" != "0" ]; then
